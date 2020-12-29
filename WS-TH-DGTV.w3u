@@ -2,7 +2,7 @@
 "name": "Thai Digital TV",
 "author": "Cholezooza",
 "image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
-"url": "XXX",
+"url": "https://raw.githubusercontent.com/cholezooza/Logo_beINSPORTS/main/WS-TH-DGTV.w3u",
 "info": "", "stations": 
 [ 
 {
@@ -351,5 +351,7 @@
 "url": "https://www.liveballsod.com/tv-online/ch347/",
 "referer": "https://www.liveballsod.com"
 },
+
+
 ]
 },
