@@ -1,0 +1,80 @@
+{
+"name": "Bein Sports",
+"author": "Cholezooza",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJyMRYQyA3dF9trBaF5zkyi1pYd3c162qBaQ&usqp=CAU",
+"url": "https://pastebin.com/raw/aCNdj5Yv",
+"info": "", "stations": 
+[ 
+{
+"name":"Bein Sports 1",
+"image":"https://picon-13398.kxcdn.com/beinsports1.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4814.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 2",
+"image":"https://picon-13398.kxcdn.com/beinsports2.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4814.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 3",
+"image":"https://picon-13398.kxcdn.com/beinsports3.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4812.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 4",
+"image":"https://picon-13398.kxcdn.com/beinsports4.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4811.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 5",
+"image":"https://picon-13398.kxcdn.com/beinsports5.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/48140m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 6",
+"image":"https://picon-13398.kxcdn.com/beinsports6.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4809.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 7",
+"image":"https://picon-13398.kxcdn.com/beinsports7.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4808.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 8",
+"image":"https://picon-13398.kxcdn.com/beinsports8.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4807.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 9",
+"image":"https://picon-13398.kxcdn.com/beinsports9.jpg",
+"url":"http://ok2.se:8000/live/alphie123/alphie123/4806m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 11",
+"image":"https://picon-13398.kxcdn.com/beinsports11.jpg",
+"url":"https://tinyurl.com/livestack/15000",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bein Sports 12",
+"image":"https://picon-13398.kxcdn.com/beinsports12.jpg",
+"url":"https://tinyurl.com/livestack/15001",
+"playInNatPlayer": "true"
+},
+
+
+}]
+
+},	
+]
+}
