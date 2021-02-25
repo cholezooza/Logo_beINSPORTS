@@ -69,64 +69,64 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85FRNG1Z/supersport-variety-1.png"group-title="DSTV",SuperSport Variety 1 HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678020.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678020.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJkRpCNK/supersport-variety-2.png"group-title="DSTV",SuperSport Variety 2 HD AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678021.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678021.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jhz3YJSV/supersport-variety-3.png"group-title="DSTV",SuperSport Variety 3 HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678022.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678022.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjVckFfQ/supersport-variety-4.png"group-title="DSTV",SuperSport Variety 4 HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678023.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678023.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/139D4wmn/supersport-football.png"group-title="DSTV",SuperSport Football HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678024.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwFPsRgz/supersport-action.png"group-title="DSTV",SuperSport Action FHD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/683568.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/683568.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0k5cLvs/supersport-motorsport.png"group-title="DSTV",SuperSport Motorsport HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678025.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15DK8yDT/supersport-rugby.png"group-title="DSTV",SuperSport Rugby HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678026.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678026.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R6ZvRSM/supersport-tennis.png"group-title="DSTV",SuperSport Tennis HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678027.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678027.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBhwdsqp/supersport-golf.png"group-title="DSTV",SuperSport Golf HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678028.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678028.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkfH4Fpr/supersport-premier-league-live.png"group-title="DSTV",SuperSport Premier League HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678029.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678029.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBRg4kjM/supersport-laliga.png"group-title="DSTV",SuperSport La Liga HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/683001.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/683001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8vb1TB3/supersport-psl.png"group-title="DSTV",SuperSport PSL HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678030.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678030.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQrCB4DZ/supersport-grandstand-live.png"group-title="DSTV",SuperSport Grandstand HD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678031.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678031.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mzp0TBt/maximo-1.png"group-title="DSTV",SuperSport Maximo HD AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/682919.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/682919.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kv1nGj/supersport-blitz.png"group-title="DSTV",SuperSport Blitz FHD VIP AF
 #EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/682921.ts
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/682921.m3u8
