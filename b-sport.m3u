@@ -53,7 +53,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
 #EXTVLCOPT:network-caching=1000
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
 
-#EXTINF:24 tvg-logo="https://tv.coronai.ml/SportsHD13.png"group-title="Live: beIN Media Group", beIN Sports 13
+#EXTINF:24 tvg-logo="https://i.postimg.cc/jj4hdHLh/beinsport13.jpg"group-title="Live: beIN Media Group", beIN Sports 13
 #EXTVLCOPT:network-caching=1000
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
 
